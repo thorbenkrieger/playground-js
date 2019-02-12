@@ -1,4 +1,4 @@
 # playground-js
 Playground for js webservice
 
-Dev version
+Dev version changed in IDE
