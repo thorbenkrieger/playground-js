@@ -11,5 +11,8 @@
     "url": "https://github.com/thorbenkrieger/playground-js/"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express" : "^4.16.1"
+  }
 }
